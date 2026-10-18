@@ -1,5 +1,11 @@
-# The Everwillow Archive — Written Works V5 (review build)
+# The Everwillow Archive — Connections V6 READY TO UPLOAD
 
-Four approved book titles in a two-row stone bookshelf with clickable weathered leather spines. Book one is a visibly rough, unfinished manuscript. The other three are aged finished-style volumes. No invented Amazon URLs or publication claims. Every book opens an accessible modal with title, series, synopsis, and appropriate status.
+The page includes the approved bonsai keeper art, gothic Moxfield / TikTok / Discord / Battle.net portal cards, and all earlier approved content.
 
-Preserves Character Vault V4.3 and Deck Archive V3. Test this build before publishing. Only `index.html` (not the ZIP) should replace the GitHub Pages root homepage when approved.
+Links:
+- Moxfield: https://moxfield.com/users/Nauxinn
+- TikTok: https://www.tiktok.com/@nauxinn
+- Discord: Coming Soon, button inactive
+- Battle.net: BigEvil#11903, copyable BattleTag (no made-up external profile URL)
+
+For GitHub Pages, extract the package and upload `index.html` (not the ZIP) to the root of `main` replacing the existing `index.html`. No other assets are needed.
