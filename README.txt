@@ -1,14 +1,5 @@
-THE EVERWILLOW ARCHIVE — MOBILE-FRIENDLY SINGLE-FILE EDITION
+# The Everwillow Archive — Written Works V5 (review build)
 
-This index.html contains the website, scripts, styles, and embedded artwork.
+Four approved book titles in a two-row stone bookshelf with clickable weathered leather spines. Book one is a visibly rough, unfinished manuscript. The other three are aged finished-style volumes. No invented Amazon URLs or publication claims. Every book opens an accessible modal with title, series, synopsis, and appropriate status.
 
-To publish on your public GitHub repository:
-1. Go to https://github.com/d8vgrt287w-gif/Everwillowarchive
-2. Choose Add file -> Upload files.
-3. Choose index.html from this folder, then Commit changes to main.
-4. Under Settings -> Pages, set Deploy from branch, main, /(root). Save.
-5. Visit https://d8vgrt287w-gif.github.io/Everwillowarchive/ after deployment.
-
-Do not configure everwillowarchive.com until the GitHub preview loads correctly.
-
-Known placeholders: Some Moxfield, Amazon, and social URLs have not yet been supplied. Many images are conceptual artwork, not real card scans; bracket labels are unassigned.
+Preserves Character Vault V4.3 and Deck Archive V3. Test this build before publishing. Only `index.html` (not the ZIP) should replace the GitHub Pages root homepage when approved.
